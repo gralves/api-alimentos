@@ -1,22 +1,43 @@
-# Compiled class file
+/target/
+/bin/
 *.class
-
-# Log file
 *.log
+*.pdf
+*.DS_Store
+*cfg.properties
 
-# BlueJ files
-*.ctxt
+/target/
+/bin/
+/.settings/
+/.metadata/
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+.classpath
+.project
 
-# Package Files #
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-*.rar
+!*test-cfg.properties
+/src/logus/corporativo/bo/*.bak
+*.bak
+target/
+!.mvn/wrapper/maven-wrapper.jar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
