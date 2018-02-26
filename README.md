@@ -17,13 +17,13 @@ http://localhost:8080/
 
 <b>Lista de Requisições REST:</b><br>
 
-* Lista todos os lanches com seus devidos preços calculados
+* Lista todos os lanches com seus devidos preços calculados<br>
 /lanche/list-lanches
 
-* Lista todos os ingredientens
+* Lista todos os ingredientens<br>
 /lanche/list-ingredientes
 
-*Adiciona Novo Pedido retornando valor total aplicando ou não as promoções disponíveis
+* Adiciona Novo Pedido retornando valor total aplicando ou não as promoções disponíveis<br>
 /pedido/save
 
 
