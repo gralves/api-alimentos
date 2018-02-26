@@ -10,7 +10,7 @@ Siga os passos abaixo para a inicialização da API.
 
 git clone https://github.com/gralves/api-alimentos.git
 
-- Após a clonar, importar no Eclipse o projeto, abrir a classe com.alimentos.api.AlimentosApiApplication.java
+- Após a clonar, importar no Eclipse o projeto, abrir a classe com.alimentos.api.AlimentosApiApplication.java e rode como Java Application
 
 A Api estará disponível em:
 http://localhost:8080/
